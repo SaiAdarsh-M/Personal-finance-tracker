@@ -1,0 +1,7 @@
+INCOME:23.0 - salary
+EXPENSE12.0 fun
+INCOME:23.0 ntg
+INCOME:14.0 sbi
+INCOME:10.0 fund
+EXPENSE:100.0 fees
+INCOME:30.0 refund
