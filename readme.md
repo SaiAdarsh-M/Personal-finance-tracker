@@ -51,6 +51,7 @@ Welcome to the expense tracker
 
 Transaction History:
 INCOME: 23.0 - salary
+
 EXPENSE: 100.0 - fees
 
 Current Balance: -77.0
