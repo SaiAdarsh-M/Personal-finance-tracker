@@ -54,6 +54,9 @@ INCOME: 23.0 - salary
 EXPENSE: 100.0 - fees
 
 Current Balance: -77.0
+
+
+
 🧠 Learning Outcomes
 	•	Practical understanding of file-based data persistence
 	•	Parsing structured text data
